@@ -3,10 +3,13 @@ CoNo prototip mobilne aplikacije, ki smo jo naredili kot skupinski projekt v 4. 
 
 CoNo smo naredili po zgledu aplikacij za sledenje ukrepom z okužbami s Covid-19. Izdelovanje končnega prototipa je bio delo za 1 semester, ki je vključevalo raziskave, zasnovo, anketiranje ter končno oblikovanje.
 
-Na sledeči povezavi je animiran video, ki sva ga pripravila skupaj s sošolcem. Prikazuje uporabo aplikacije skozi simulirano uporabo prototipa.
+Snimiran video, ki sva ga pripravila skupaj s sošolcem. Prikazuje uporabo aplikacije skozi simulirano uporabo prototipa:
 Povezava: https://youtu.be/bxME_OUd760
 
-Na sledeči povezavi je spletna stran, narejena v Wordpressu.
+Prototip aplikacije, ki je naše skupno delo, je dostopen na sledeči povezavi:
+https://xd.adobe.com/view/696cb19c-a628-4d2b-9e84-5f1184fa93e5-3c3f/
+
+Spletna stran, narejena v Wordpressu, ki je moje individualno delo:
 Povezava*: https://splet.smgs.si/NicetinLara/www.CoNo.si/
 
 *spletišče je objavljeno na strežniku moje srednje šole, zato je možno da je v tem trenutno že odstranjena. Za ta primer hranim tudi kopijo WP strani v .xd datoteki
